@@ -2,7 +2,7 @@ Summary:	Python SANE module
 Summary(pl.UTF-8):	Moduł SANE dla Pythona
 Name:		python-pysane
 Version:	2.0.1
-Release:	1
+Release:	2
 License:	MIT-like
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/p/pysane/pysane-%{version}.tar.gz
