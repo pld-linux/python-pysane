@@ -12,7 +12,7 @@ BuildRequires:	python-PIL-devel
 BuildRequires:	python-devel >= 2
 BuildRequires:	python-numpy-numarray-devel
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 BuildRequires:	sane-backends-devel
 Requires:	python-PIL
 Requires:	python-numpy-numarray
