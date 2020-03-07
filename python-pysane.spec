@@ -1,8 +1,9 @@
+# NOTE: python3/pillow compatible continuation in python-sane.spec
 Summary:	Python SANE module
 Summary(pl.UTF-8):	Moduł SANE dla Pythona
 Name:		python-pysane
 Version:	2.0.1
-Release:	2
+Release:	2.1
 License:	MIT-like
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pysane/
